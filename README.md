@@ -14,3 +14,4 @@ pip install requirements.txt
 ```bash
 flask run
 ```
+![usage gif](https://raw.githubusercontent.com/cemanaral/imdb-recommender/master/1.gif)
