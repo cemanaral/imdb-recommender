@@ -5,7 +5,7 @@ A simple movie recommender app made with Flask, BeautifulSoup and requests modul
 ## Installation
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 (You might want to create a virtual environment beforehand)
 
