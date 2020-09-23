@@ -1,2 +1,16 @@
 # imdb-recommender
-A simple movie recommender app made with Flask framework
+
+A simple movie recommender app made with Flask, BeautifulSoup and requests modules.
+
+## Installation
+
+```bash
+pip install requirements.txt
+```
+(You might want to create a virtual enviroment beforehand)
+
+## Usage
+
+```bash
+flask run
+```
